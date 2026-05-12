@@ -2,3 +2,5 @@ python=3.13.9
 numpy=2.14
 scikit-learn=2.33
 pandas=3.12
+matplotlib=1.512
+machan ready 
